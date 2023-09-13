@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style: none;
+}
+
+:root{
+    --primary-color--:#3fbbc0;
+}
+
+.btn1{
+    background-color: var(--primary-color--);
+}
